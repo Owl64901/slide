@@ -1,0 +1,32 @@
+---
+title: "Introduction to Quarto Slides"
+format: revealjs
+---
+
+## Introduction
+
+This presentation has been made by a group of UBC students in the MDS program. More information about the MDS program can be found at <https://masterdatascience.ubc.ca/>.
+
+## Course Specifics
+
+The course that this presentation has been made for is **DSCI 521** which has been a great learning experience, especially for those coming for a non-programming background because it lays down the most important fundamentals required for a career in Data Science - namely the use of GitHub for collaboration on projects.
+
+## Code Example 1
+
+Below we are creating a variable called 'temp' and then storing in it the sum of 1 and 1 and then printing the output:
+
+
+```{r, echo=TRUE}
+temp <- 1+1
+temp
+```
+
+## Code Example 2
+Below we are creating a list with the elements 1, 2 and 3, and then printing it out:
+```{r, echo=TRUE}
+list1 <- c(1, 2, 3)
+list1
+```
+
+
+
